@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+    font-style: italic ;
+}
+#login{
+    background-color: rgb(27, 31, 31);
+    border-color: black solid 12px;
+    margin-left: 500px;
+    margin-right: auto;
+    margin-top: 250px;
+    border-radius: 15px;
+    height: 180px;
+    width: 200px;
+}
+#coisinhas{
+padding-left: 8%;
+padding-top: 20%;
+}
